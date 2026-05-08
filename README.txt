@@ -1,0 +1,1 @@
+Versão simples sem pastas para upload pelo navegador no GitHub Pages. Envie todos os arquivos soltos para a raiz do repositório e ative Settings > Pages > Deploy from a branch > main > /root. Para nova matéria, crie um novo arquivo .html na raiz e adicione link no index.html ou arquivo.html.
